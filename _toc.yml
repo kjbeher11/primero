@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: Ejercicio_1parte_1 
+- file: Ejercicio_1parte_2
+- file: Datos_Belka(EDA_Modelo)
+- file: Ejercicio_2parte_2(EDA) 
+- file: Ejercicio_4 
